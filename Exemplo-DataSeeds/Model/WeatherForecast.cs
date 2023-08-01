@@ -1,4 +1,4 @@
-namespace Exemplo_DataSeeds
+namespace Exemplo_DataSeeds.Model
 {
     public class WeatherForecast
     {

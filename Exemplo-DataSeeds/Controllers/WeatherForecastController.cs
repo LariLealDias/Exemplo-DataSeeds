@@ -1,3 +1,4 @@
+using Exemplo_DataSeeds.Model;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Exemplo_DataSeeds.Controllers
